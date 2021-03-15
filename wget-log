@@ -1,0 +1,6 @@
+--2021-03-15 14:01:45--  http://itd2.mycdn.me/image?id=872365900450
+Resolving itd2.mycdn.me (itd2.mycdn.me)... 217.20.152.213, 217.20.155.57, 217.20.156.158
+Connecting to itd2.mycdn.me (itd2.mycdn.me)|217.20.152.213|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2021-03-15 14:01:46 ERROR 400: Bad Request.
+
